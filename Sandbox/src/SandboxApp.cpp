@@ -20,5 +20,5 @@ Sandbox::~Sandbox()
 
 LFHE::Application* LFHE::CreateApplication()
 {
-	return new Sandbox;
+	return new Sandbox();
 }

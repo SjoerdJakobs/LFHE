@@ -1,9 +1,10 @@
 #pragma once
 
-#include<stdio.h>
 #include "LFHE/Application.h"
+#include "LFHE/Log.h"
+#include "LFHE/Log.cpp"
 
-// ---Entry Point -------------------------------
+// ---Entry Point--------------------------------
 #include "LFHE/EntryPoint.h"
-// ---Entry Point -------------------------------
+// ----------------------------------------------
 

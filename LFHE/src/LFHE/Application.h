@@ -1,8 +1,10 @@
 #pragma once
 
+#include "Core.h"
+
 namespace LFHE
 {
-	class _declspec(dllexport) Application
+	class LFHE_API Application
 	{
 	public:
 		Application();
